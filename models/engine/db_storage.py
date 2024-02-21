@@ -1,4 +1,5 @@
-s module defines the engine for the MySQL database"""
+#!/usr/bin/Python3
+"""module defines the engine for the MySQL database"""
 from models.base_model import BaseModel, Base
 from models.user import User
 from models.state import State
